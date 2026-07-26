@@ -70,6 +70,7 @@ Step 1 Completed
 All deliverables from Tasks 1, 2, and 3 have been successfully collected, verified, and organized into a structured repository. This project is now prepared for the next phase, which includes business problem understanding, advanced analysis, statistical validation, and presentation development.
 
 ---
-
+# 
 Author: SHAIK FARHANA
+
 Internship: ApexPlanet Software Pvt. Ltd. – Data Analytics Internship 

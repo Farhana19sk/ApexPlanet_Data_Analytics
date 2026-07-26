@@ -1,19 +1,19 @@
-Task 4 – Data storytelling & Statistical Validation
+# Task 4 – Data storytelling & Statistical Validation
 
 Step 1: Project Initialization & Repository Organization
 
-Project Overview
+# Project Overview
 
 This repository serves as the final deliverable for the Data Analytics Internship. It consolidates all work completed in the previous tasks into a single, well-organized project structure, providing a strong foundation for advanced analysis, business storytelling, statistical validation, and final reporting.
 
-Objective
+# Objective
 
 - Organize all project artifacts from Tasks 1–3.
 - Maintain a clean and structured repository.
 - Ensure all datasets, analysis notebooks, SQL scripts, dashboards, and visual assets are stored in dedicated folders.
 - Prepare the project for the remaining phases of Task 4.
 
-Repository Structure
+# Repository Structure
 
 Task-4_Final_Project/
 │
@@ -25,7 +25,7 @@ Task-4_Final_Project/
 ├── Presentation/
 └── README/
 
-Repository Contents
+# Repository Contents
 
 Dataset
 

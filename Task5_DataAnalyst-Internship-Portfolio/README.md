@@ -76,7 +76,9 @@ Matplotlib
 
 ## Resume
 
-Download Resume - https://drive.google.com/file/d/1U-VSpR9NKn5J5z4qJa8ijmlpWvtExUWz/view?usp=drivesdk
+Download Resume - 📄 Resume
+
+[Download Resume](Resume/Farhana_Shaik_Resume.pdf)
 
 ---
 
